@@ -1,0 +1,2 @@
+(this["webpackJsonpcelikk-personal-website"]=this["webpackJsonpcelikk-personal-website"]||[]).push([[28],{934:function(e,s,i){e.exports=i.p+"static/media/RockyJourney.fbf76234.svg"}}]);
+//# sourceMappingURL=28.cdd3fa63.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpcelikk-personal-website"]=this["webpackJsonpcelikk-personal-website"]||[]).push([[24],{930:function(e,s,a){e.exports=a.p+"static/media/Marmara.a00184d7.svg"}}]);
+//# sourceMappingURL=24.16d48fe1.chunk.js.map

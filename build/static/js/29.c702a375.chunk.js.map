@@ -1,0 +1,1 @@
+{"version":3,"sources":["fonts/Avenir-Roman.woff"],"names":["module","exports"],"mappings":"8HAAAA,EAAOC,QAAU,IAA0B","file":"static/js/29.c702a375.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/Avenir-Roman.1252c012.woff\";"],"sourceRoot":""}

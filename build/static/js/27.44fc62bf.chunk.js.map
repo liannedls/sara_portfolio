@@ -1,0 +1,1 @@
+{"version":3,"sources":["data/images/projects/QNote.svg"],"names":["module","exports"],"mappings":"8HAAAA,EAAOC,QAAU,IAA0B","file":"static/js/27.44fc62bf.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/QNote.e33f300f.svg\";"],"sourceRoot":""}

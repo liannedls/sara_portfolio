@@ -1,0 +1,1 @@
+{"version":3,"sources":["data/images/projects/IPManager.svg"],"names":["module","exports"],"mappings":"8HAAAA,EAAOC,QAAU,IAA0B","file":"static/js/23.fc4e563a.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/IPManager.9651e1df.svg\";"],"sourceRoot":""}
